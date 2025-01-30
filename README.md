@@ -9,6 +9,7 @@
 ![Framer](https://simpleskill.icons.workers.dev/svg?i=framer)
 ![Mural](https://simpleskill.icons.workers.dev/svg?i=mural)
 ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
+![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
 
 
 ## Figma Links &#128279;
@@ -45,9 +46,16 @@
 ├───Framer
 │       └───Portfolio-Framer_Design.url
 │
-└───Power BI
-        ├───Details.csv
-        ├───Orders.csv
-        ├───Power BI_UI-UX_ChaitanyaShah (1).pbix
-        └───Power BI_UI-UX_ChaitanyaShah (1).pdf
+├───Power BI
+│       ├───Details.csv
+│       ├───Orders.csv
+│       ├───Power BI_UI-UX_ChaitanyaShah (1).pbix
+│       └───Power BI_UI-UX_ChaitanyaShah (1).pdf
+│
+└───Streamlit
+        ├───app.py
+        ├───README.md
+        ├───Sample_Data_for_Plotting_and_Filtering.csv
+        └───streamlit_app_preview.mp4
+
 ```
